@@ -1,0 +1,19 @@
+img {
+    height: 200px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+
+}
+p{
+Border:solid 5px;
+    margin: 10px;
+    padding: 3px;
+}
